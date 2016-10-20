@@ -1,4 +1,4 @@
-# auxiliary
+# DoS HTTP Negative Content Length
 
 Skrypt 1000 razy wysyła żądania z ujemną wartością w polu Content-Length na podany w argumencie wywołania adres.
 
